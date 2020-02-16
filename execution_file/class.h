@@ -16,7 +16,7 @@ private:
 std::vector<QRadioButton*> tab;
 QGridLayout* layout_principal;
 QGroupBox* box;
-QVBoxLayout* layout;
+QGridLayout* layout;
 QPushButton* execution;
      QFile *fichier;
      QTextStream *inp;
