@@ -20,7 +20,9 @@ QGridLayout* layout;
 QPushButton* execution;
      QFile *fichier;
      QTextStream *inp;
-
+QTextEdit *console;
+QFile *fichier1;
+QTextStream *inp1;
 
 
 };
