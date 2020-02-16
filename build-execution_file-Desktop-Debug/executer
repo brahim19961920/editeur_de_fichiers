@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/brahim/C++
+echo "`$1`">~/C++/projet_sys/build-execution_file-Desktop-Debug/console
