@@ -1,0 +1,4 @@
+1/editeur de texte :ecrire le code shell ou C ou C++ ou Pyhton ou SQL
+le code sera écrit en C++ et shell
+ouvrir,fermer,enregistrer,un script,
+compiler/executer un script avec affichage des erreurs!!
